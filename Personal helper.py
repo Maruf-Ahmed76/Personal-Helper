@@ -107,4 +107,4 @@ async def kick(ctx, member: discord.User=None):
     print("kicked" + " " + str(member))
     await client.say("KICKED...........")
 
-client.run('NTAzNTg5NTE1MzYyMDQxODU4.DrHjHg.iWEcvmId25stuiivvpRxbRNbv0Q')
+client.run(TOKEN)
