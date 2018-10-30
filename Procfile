@@ -1,1 +1,1 @@
-works: python Personal helper.py
+worker: python Personal helper.py
