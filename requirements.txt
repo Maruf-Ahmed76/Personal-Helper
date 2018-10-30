@@ -1,2 +1,1 @@
 discord.py
--m pip install discord.py==0.16.12
